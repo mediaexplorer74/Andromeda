@@ -2,8 +2,6 @@
 
 Andromeda project - related docs / notes / etc.
 
-## Screenshots
-
 ![](design/projectA.png)
 
 ## Wiki 

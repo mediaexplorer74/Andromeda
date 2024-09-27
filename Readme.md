@@ -37,12 +37,12 @@ The Andromeda Wiki here:
 https://github.com/mediaexplorer74/Andromeda/wiki
 
 ## Credits 
-- Ritsu_909: He told me how todo it. Github Page
-- Gus_33000: He shared several files and tools to help.
-- OrangeRa1n: She shared the Image files of Andromeda.
-- Empyreal96: He taught me a lot of theoretical knowledge.
-- Steve_246: He gave me a Retail Lumia 950 to test this method.
-- Abc145: : He taught me a lot of practical knowledge
+- [Ritsu_909](https://github.com/Ritsu909) : He show me how todo it. Github Page: 
+- [Gus_33000](https://github.com/Gus33000) : He shared several files and tools to help. 
+- [OrangeRa1n](https://github.com/OrangeRa1n) : She shared the Image files of Andromeda. 
+- [Empyreal96](https://github.com/Empyreal96) : He taught me a lot of theoretical knowledge.
+- [Steve_246](https://github.com/Steve246) : He gave me a Retail Lumia 950 to test this method.
+- [Abc145](https://github.com/Abc145) : He taught me a lot of practical knowledge.
 - And everyone who works hard for Windows Phone. :)
 
 

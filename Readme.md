@@ -46,7 +46,7 @@ The Andromeda Wiki here:
 https://github.com/mediaexplorer74/Andromeda/wiki
 
 ## Credits 
-- [Ritsu_909](https://github.com/Ritsu909) : He show me how todo it. Github Page: 
+- [Ritsu_909](https://github.com/Ritsu909) : He show me how todo it. 
 - [Gus_33000](https://github.com/Gus33000) : He shared several files and tools to help. 
 - [OrangeRa1n](https://github.com/OrangeRa1n) : She shared the Image files of Andromeda. 
 - [Empyreal96](https://github.com/Empyreal96) : He taught me a lot of theoretical knowledge.
